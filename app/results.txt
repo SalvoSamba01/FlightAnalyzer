@@ -1,0 +1,2 @@
+Motif_Nodes	Motif_edges	Num_occ_input_graph	Mean_analytical	Variance_analytical	Pval_analytical
+Italy,Turkey	(0,1,M)	11	14.482530689329556	64.5197531820057	0.5971544278023924
