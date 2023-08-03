@@ -115,17 +115,17 @@ https://github.com/SalvoSamba01/FlightAnalyzer/assets/69872629/d81e0c7d-98e9-425
 1. Download latest R and RStudio releases (Download [here](https://posit.co/download/rstudio-desktop/))
 2. Download all files in the "app" directory
 3. Run RStudio and install the following libraries with the command ***install.packages("library_name")***:
-   a. *shiny*
-   b. *shinydashboard*
-   c. *igraph*
-   d. *ggplot2*
-   e. *ggmap*
-   f. *maps*
-   g. *geosphere*
-   h. *leaflet*
-   i. *DT*
-   j. *visNetwork*
-   k. *dplyr*
-   l. *globe4r*
+   - *shiny*
+   - *shinydashboard*
+   - *igraph*
+   - *ggplot2*
+   - *ggmap*
+   - *maps*
+   - *geosphere*
+   - *leaflet*
+   - *DT*
+   - *visNetwork*
+   - *dplyr*
+   - *globe4r*
 5. Execute the "app.R" file
 6. Click the "Run app" button at the top ot the RStudio window
