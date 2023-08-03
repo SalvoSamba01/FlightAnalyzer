@@ -127,5 +127,6 @@ https://github.com/SalvoSamba01/FlightAnalyzer/assets/69872629/d81e0c7d-98e9-425
    - *visNetwork*
    - *dplyr*
    - *globe4r*
-5. Execute the "app.R" file
+4. Execute all the istructions in the "createGraph.R" script, which creates the airport network graph, in "graphML" format. This operation can take minutes to hours, based on your computer hardware
+5. Open the "app.R" file
 6. Click the "Run app" button at the top ot the RStudio window
