@@ -110,3 +110,9 @@ In the following example we search a motif which represents an air route between
 At the end, we select two random motifs and the application shows them in a 3D globe for a better visualization.
 
 https://github.com/SalvoSamba01/FlightAnalyzer/assets/69872629/d81e0c7d-98e9-4251-87e6-99e796cf7af2
+
+# How to use FlightAnalyzer
+1. Download latest R and RStudio releases (Download [here](https://posit.co/download/rstudio-desktop/))
+2. Download all files in the "app" directory
+3. Execute the "app.R" file
+4. Click the "Run app" button at the top ot the RStudio window
